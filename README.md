@@ -1,3 +1,5 @@
+# source code for our experiment global attention with clusters and GCN for TAL. 
+
 # G-TAD
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/g-tad-sub-graph-localization-for-temporal/temporal-action-localization-on-thumos14)](https://paperswithcode.com/sota/temporal-action-localization-on-thumos14?p=g-tad-sub-graph-localization-for-temporal)
