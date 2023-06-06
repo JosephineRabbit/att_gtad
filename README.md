@@ -1,4 +1,4 @@
-# source code for our experiment global attention with clusters and GCN for TAL. 
+# source code for our experiment global attention with clusters and GCN for TAL which is based on Gtad and BMN. 
 
 # G-TAD
 
